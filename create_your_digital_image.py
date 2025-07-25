@@ -5,7 +5,7 @@ st.title("🎨 Create Your Digital Art")
 st.write("This app draws a rectangle, circle, and adds a custom message.")
 
 # Add a text input
-user_text = st.text_input("Enter your message for the image:", "Hi Ayushi!")
+user_text = st.text_input("Enter your message for the image:", "Hi Human!")
 
 # Button to generate image
 if st.button("Generate Image"):
